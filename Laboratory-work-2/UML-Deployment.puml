@@ -1,4 +1,5 @@
 @startuml
+!theme crt-amber
 title UML-діаграма розгортання додатку "Lazy farmer"
 
 left to right direction
@@ -23,7 +24,7 @@ Mouse -- dk
 node "<<Server 1>>" as serv1 {
 	node "<<Operating System Linux>>" as l1 {
 	    node "<<Application Backed Server>>" {
-		    component [<<Java application>>]
+		    component [<<*.java>>]
 		}
 	}
 }
@@ -32,8 +33,8 @@ dk -- serv1
 
 node "<<Server 2>>" as serv2 {
 	node "<<Operating System Windows>>" as l2 {
-	    node "<<Database Server>>" {
-		    database "Microsoft Sql Server"
+	    node "<<Database Server Microsoft Sql Server>>" {
+		    database "Relation Database"
 		}
 	}
 }
