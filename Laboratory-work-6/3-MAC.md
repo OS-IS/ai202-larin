@@ -3,29 +3,33 @@
 
 ![img_2.png](img/mac/img_2.png)
 
+#### View 
 ![img_3.png](img/mac/img_3.png)
-
+#### SELECT FROM ADMIN
 ![img_4.png](img/mac/img_4.png)
 
+#### SELECT FROM LARIN
 ![img_5.png](img/mac/img_5.png)
 
-![img_6.png](img/mac/img_6.png)
 
-![img_7.png](img/mac/img_7.png)
+####  INSERT rule
+![img.png](img.png)
 
 ![img_11.png](img/mac/img_11.png)
 
-####  UPDATE rule
 ![img_8.png](img/mac/img_8.png)
-![img_9.png](img/mac/img_9.png)
-![img_10.png](img/mac/img_10.png)
 
 ####  UPDATE rule
+
+![img_9.png](img/mac/img_9.png)
+
 ![img_12.png](img/mac/img_12.png)
-![img_13.png](img/mac/img_13.png)
+
+![img_10.png](img/mac/img_10.png)
 
 ####  DELETE rule
 ![img_14.png](img/mac/img_14.png)
+
 ![img_15.png](img/mac/img_15.png)
 
 ## !! PostgreSQL does not support joins in rules
