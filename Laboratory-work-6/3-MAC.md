@@ -1,3 +1,5 @@
+![img_2.png](img_2.png)
+
 #### Access level tables
 ![img_1.png](img/mac/img_1.png)
 
@@ -13,7 +15,6 @@
 
 
 ####  INSERT rule
-![img.png](img.png)
 
 ![img_11.png](img/mac/img_11.png)
 
